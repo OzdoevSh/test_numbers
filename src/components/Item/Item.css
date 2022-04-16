@@ -1,0 +1,12 @@
+.item {
+  width: 105px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: red;
+  color: white;
+  margin-bottom: 8px;
+  border-radius: 5px;
+  font-weight: bold;
+}
